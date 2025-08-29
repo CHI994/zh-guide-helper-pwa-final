@@ -10,7 +10,7 @@
       }
     }
   ],
-  "routes": [
+  "rewrites": [
     {
       "src": "/sw.js",
       "headers": {
@@ -69,4 +69,5 @@
       ]
     }
   ]
+
 }
